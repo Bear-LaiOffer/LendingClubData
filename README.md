@@ -5,3 +5,6 @@
   - Data analytics
   - Data analytics 2
 2. This is a test
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
