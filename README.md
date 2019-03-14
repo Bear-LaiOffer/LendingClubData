@@ -9,3 +9,6 @@
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
 :+1: This report looks great - it's ready to publish! :shipit:
+
+The loan has distribution of:
+(https://github.com/Bear-LaiOffer/LendingClubData/blob/master/Charts/interest-rate.png)
