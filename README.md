@@ -13,10 +13,10 @@
 
 2. Data Explore
   
- Loan issued by Grade:
+ - Loan issued by Grade:
  ![image](https://github.com/Bear-LaiOffer/LendingClubData/blob/master/Charts/loan-grade.png)
  
- The loan has distribution of:
+ - The loan has distribution of:
 
 ![image](https://github.com/Bear-LaiOffer/LendingClubData/blob/master/Charts/interest-rate.png)
 
