@@ -18,11 +18,17 @@
  
  - The loan has distribution of:
 
-![image](https://github.com/Bear-LaiOffer/LendingClubData/blob/master/Charts/interest-rate.png)
+   ![image](https://github.com/Bear-LaiOffer/LendingClubData/blob/master/Charts/interest-rate.png)
 
-3. This is a test
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+   - Employee title
+   ![image](https://github.com/Bear-LaiOffer/LendingClubData/blob/master/Charts/wordcloud.png)
+
+3. Data Cleaning
+- [x] Missing data
+- [ ] Feature importance
+- [ ] Feature selection
+
+
+
 :+1: This report looks great - it's ready to publish! :shipit:
 
