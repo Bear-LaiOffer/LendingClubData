@@ -21,6 +21,7 @@
    ![image](https://github.com/Bear-LaiOffer/LendingClubData/blob/master/Charts/interest-rate.png)
 
    - Employee title
+   
    ![image](https://github.com/Bear-LaiOffer/LendingClubData/blob/master/Charts/wordcloud.png)
 
 3. Data Cleaning
